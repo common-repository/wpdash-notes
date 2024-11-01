@@ -1,0 +1,31 @@
+{
+  "name":"wpformation/wpdash-notes",
+  "description":"",
+  "keywords":[],
+  "homepage":"https://wpformation.com/",
+  "authors":[
+    {
+      "name":"WPFormation",
+      "email":"kulka.nicolas@gmail.com",
+      "homepage":"https://wpformation.com/",
+      "role": "Lead Developer"
+    }
+  ],
+  "type":"wordpress-plugin",
+  "minimum-stability":"stable",
+  "license":"GPL-3.0+",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/NicolasKulka/WP-Review-Me"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/NicolasKulka/WP-Dismissible-Notices-Handler"
+    }
+  ],
+  "require":{
+    "php":">=5.6.0",
+    "nicolaskulka/wp-review-me":"2.6"
+  }
+}

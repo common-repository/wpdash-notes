@@ -1,0 +1,17 @@
+i.mce-i-icon-check:before {
+    content: "\f00c";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #000;
+    font-size: 1.2em;
+    padding-right: 0.5em;
+    position: absolute;
+    top: 15%;
+    left: 0;
+}
+
+.inside .meta-options label[for=ping_status] {
+    display: none;
+}

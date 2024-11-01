@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPDash Notes\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpdash-notes\n"
+"POT-Creation-Date: 2024-06-07T08:25:00+00:00\n"
+"PO-Revision-Date: 2024-06-07 10:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpdash-notes.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#. Plugin Name of the plugin
+msgid "WPDash Notes"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WPDash Notes est un plugin qui vous permet de créer des notes sur votre "
+"tableau de bord WordPress et sur ceux des autres utilisateurs."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPFormation, NicolasKulka, WPServeur"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpformation.com/"
+msgstr ""
+
+#: blocks/pub_wpboutik.php:18
+msgid "Install WPBoutik"
+msgstr "Installer WPBoutik"
+
+#: blocks/pub_wpboutik.php:30
+msgid "Enable WPBoutik"
+msgstr "Activer WPBoutik"
+
+#: blocks/pub_wpboutik.php:191
+msgid ""
+"Say goodbye to complications! WPBoutik simplifies online sales with "
+"WordPress."
+msgstr ""
+"Dites adieu aux complications ! WPBoutik simplifie la vente en ligne avec "
+"WordPress."
+
+#: blocks/pub_wpboutik.php:192
+msgid ""
+"Lightness and efficiency: discover the WPBoutik e-commerce plugin for "
+"WordPress."
+msgstr ""
+"Légèreté et efficacité : découvrez le plugin e-commerce WPBoutik pour "
+"WordPress."
+
+#: blocks/pub_wpboutik.php:193
+msgid ""
+"Transform your WordPress site into a seamless sales platform with WPBoutik."
+msgstr ""
+"Transformez votre site WordPress en une plateforme de vente fluide avec "
+"WPBoutik."
+
+#: blocks/pub_wpboutik.php:194
+msgid ""
+"Maximum simplicity, optimal results: adopt WPBoutik for your WordPress e-"
+"commerce."
+msgstr ""
+"Simplicité maximale, résultats optimaux : adoptez WPBoutik pour votre e-"
+"commerce WordPress."
+
+#: blocks/pub_wpboutik.php:195
+msgid ""
+"Your online store deserves the best: choose WPBoutik for a hassle-free "
+"experience."
+msgstr ""
+"Votre boutique en ligne mérite le meilleur : choisissez WPBoutik pour une "
+"expérience sans tracas."
+
+#: blocks/pub_wpboutik.php:196
+msgid ""
+"Ditch the bulky plugins! WPBoutik gives you the simplicity you need to sell "
+"online on WordPress."
+msgstr ""
+"Laissez tomber les plugins encombrants ! WPBoutik vous offre la simplicité "
+"dont vous avez besoin pour vendre en ligne sur WordPress."
+
+#: blocks/pub_wpboutik.php:197
+msgid ""
+"WPBoutik: the lightweight and efficient solution for your WordPress e-"
+"commerce"
+msgstr ""
+"WPBoutik : la solution légère et performante pour votre e-commerce WordPress"
+
+#: blocks/pub_wpboutik.php:198
+msgid ""
+"Save time and energy with WPBoutik: the obvious choice for a stress-free "
+"online store."
+msgstr ""
+"Gagnez du temps et de l’énergie avec WPBoutik : le choix évident pour une "
+"boutique en ligne sans stress."
+
+#: blocks/pub_wpboutik.php:199
+msgid ""
+"Online sales without complications? It's possible with WPBoutik on WordPress."
+msgstr ""
+"Des ventes en ligne sans complications ? C’est possible avec WPBoutik sur "
+"WordPress."
+
+#: blocks/pub_wpboutik.php:200
+msgid ""
+"Your online store deserves a simple and effective solution: discover "
+"WPBoutik today."
+msgstr ""
+"Votre boutique en ligne mérite une solution simple et efficace : découvrez "
+"WPBoutik dès aujourd’hui."
+
+#: blocks/pub_wpboutik.php:210
+msgid "Discover WPBoutik"
+msgstr "Découvrir WPBoutik"
+
+#: blocks/pub_wpboutik.php:211
+msgid "More about WPBoutik"
+msgstr "En savoir plus sur WPBoutik"
+
+#: classes/plugin.php:39 classes/plugin.php:97 classes/plugin.php:110
+msgid "New note"
+msgstr "Nouvelle note"
+
+#: classes/plugin.php:40 classes/plugin.php:115
+msgid "Content of my note to modify"
+msgstr "Contenu de ma note à modifier"
+
+#: classes/plugin.php:55 classes/plugin.php:390 classes/plugin.php:417
+msgid "Notes"
+msgstr ""
+
+#: classes/plugin.php:110 classes/plugin.php:252
+msgid "(Addressed to myself)"
+msgstr "(Adressé à moi même)"
+
+#: classes/plugin.php:165
+msgid "Add note"
+msgstr "Ajouter une note"
+
+#: classes/plugin.php:215 classes/plugin.php:302
+msgid "Comments :"
+msgstr "Commentaires :"
+
+#: classes/plugin.php:215 classes/plugin.php:302
+msgid "Comment :"
+msgstr "Commentaire :"
+
+#: classes/plugin.php:254
+msgid "(Addressed to all)"
+msgstr "(Adressé à tous)"
+
+#: classes/plugin.php:256
+msgid "Addressed to roles"
+msgstr "Adressé aux roles"
+
+#: classes/plugin.php:269
+msgid "Addressed to users"
+msgstr "Adressé aux utilisateurs"
+
+#: classes/plugin.php:271
+msgid "Addressed to user"
+msgstr "Adressé à l’utilisateur"
+
+#: classes/plugin.php:388
+msgctxt "Post Type General Name"
+msgid "Notes"
+msgstr ""
+
+#: classes/plugin.php:389
+msgctxt "Post Type Singular Name"
+msgid "Note"
+msgstr ""
+
+#: classes/plugin.php:391
+msgid "Note"
+msgstr ""
+
+#: classes/plugin.php:392
+msgid "Note Archives"
+msgstr ""
+
+#: classes/plugin.php:393
+msgid "Note Attributes"
+msgstr ""
+
+#: classes/plugin.php:394
+msgid "Parent Note:"
+msgstr ""
+
+#: classes/plugin.php:395
+msgid "All Notes"
+msgstr "Toutes les notes"
+
+#: classes/plugin.php:396
+msgid "Add New Note"
+msgstr "Ajouter une nouvelle note"
+
+#: classes/plugin.php:397
+msgid "Add New"
+msgstr "Ajouter"
+
+#: classes/plugin.php:398
+msgid "New Note"
+msgstr "Nouvelle note"
+
+#: classes/plugin.php:399
+msgid "Edit Note"
+msgstr "Modifier la note"
+
+#: classes/plugin.php:400
+msgid "Update Note"
+msgstr "Mettre à jour la note"
+
+#: classes/plugin.php:401 classes/plugin.php:402
+msgid "View Note"
+msgstr "Voir la note"
+
+#: classes/plugin.php:403
+msgid "Search Note"
+msgstr ""
+
+#: classes/plugin.php:404
+msgid "Not found"
+msgstr ""
+
+#: classes/plugin.php:405
+msgid "Not found in Trash"
+msgstr ""
+
+#: classes/plugin.php:406
+msgid "Featured Image"
+msgstr ""
+
+#: classes/plugin.php:407
+msgid "Set featured image"
+msgstr ""
+
+#: classes/plugin.php:408
+msgid "Remove featured image"
+msgstr ""
+
+#: classes/plugin.php:409
+msgid "Use as featured image"
+msgstr ""
+
+#: classes/plugin.php:410
+msgid "Insert into Note"
+msgstr ""
+
+#: classes/plugin.php:411
+msgid "Uploaded to this Note"
+msgstr ""
+
+#: classes/plugin.php:412
+msgid "Note list"
+msgstr ""
+
+#: classes/plugin.php:413
+msgid "Note list navigation"
+msgstr ""
+
+#: classes/plugin.php:414
+msgid "Filter Note list"
+msgstr ""
+
+#: classes/plugin.php:418
+msgid "Post Type Description"
+msgstr ""
+
+#: classes/plugin.php:442
+msgid "Note Options"
+msgstr "Options"
+
+#: classes/plugin.php:474
+msgid "Choose a color for your note."
+msgstr "Choisissez une couleur pour votre note."
+
+#: classes/plugin.php:480
+msgid "Choose a color for text your note."
+msgstr "Choisissez une couleur de texte pour votre note."
+
+#: classes/plugin.php:486
+msgid "Show :"
+msgstr "Visibilité :"
+
+#: classes/plugin.php:490
+msgid "For just me"
+msgstr "Pour moi même"
+
+#: classes/plugin.php:495
+msgid "For all users"
+msgstr "Pour tous les utilisateurs"
+
+#: classes/plugin.php:499
+msgid "By role"
+msgstr "Par rôle"
+
+#: classes/plugin.php:518
+msgid "By user"
+msgstr "Par utilisateur"
+
+#: classes/plugin.php:544
+msgid "Send alert by mail"
+msgstr "Envoyer une alerte par email"
+
+#: classes/plugin.php:605 classes/plugin.php:629 classes/plugin.php:659
+msgid "A new note for you"
+msgstr "Une nouvelle note à votre attention"
+
+#: classes/plugin.php:608 classes/plugin.php:632 classes/plugin.php:662
+msgid "A new note which concerns you has been published by"
+msgstr "Une nouvelle note qui vous concerne a été publié par"
+
+#: classes/plugin.php:609 classes/plugin.php:633 classes/plugin.php:663
+msgid "Log in to your WordPress Dashboard to read it."
+msgstr "Connectez vous à votre Dashboard WordPress pour le lire."
+
+#: wpdash-notes.php:37
+msgid ""
+"Do you like plugin WPDash Notes ?<br> Thank you for taking a few seconds to "
+"note us on"
+msgstr ""
+"Vous aimez le plugin WPDash Notes ?<br> Merci de prendre quelques secondes "
+"pour nous noter sur"
+
+#: wpdash-notes.php:59
+msgid "WPFormation"
+msgstr ""
+
+#: wpdash-notes.php:60
+msgid "WPFormation News"
+msgstr "Nouvelles de WPFormation"
+
+#: wpdash-notes.php:61
+msgid "Dismiss all WPFormation news"
+msgstr "Désactiver toutes les nouvelles de WPFormation"
+
+#: wpdash-notes.php:62
+msgid "Are you sure you want to dismiss all WPFormation news forever?"
+msgstr ""
+"Êtes-vous sûr de vouloir rejeter à jamais toutes les nouvelles de "
+"WPFormation ?"
+
+#~ msgid " ( Addressed to myself ) "
+#~ msgstr "( Adressé à moi même )"
+
+#~ msgid "Add post-it"
+#~ msgstr "Ajouter une note"
+
+#~ msgid "New Post-it"
+#~ msgstr "Nouveau post-it"
